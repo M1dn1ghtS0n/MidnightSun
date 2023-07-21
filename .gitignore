@@ -1,0 +1,8 @@
+.vscode/
+.VSCodeCounter/
+.env
+build/
+public/
+node_modules/
+*.code-workspace
+*.log
